@@ -1,4 +1,4 @@
-# Docker-.NET-Core
+# Docker ASP.NET Core
 
 This is an Hello World example of running ASP.NET Core in Docker.
 
